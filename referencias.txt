@@ -13,3 +13,6 @@
 2 - Criar arquivo server.js onde ficam as configurações iniciais
 
 
+3 - biblioteca morgan
+
+4 - biblioteca body-parser
