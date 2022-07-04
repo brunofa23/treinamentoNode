@@ -1,0 +1,13 @@
+1 - Criar repositório git
+    git init
+
+    clonar o repositório    
+        - git clone git@github.com:brunofa23/treinamentoNode.git
+
+    Enviar para o git
+        -git add .
+
+
+2 - Criar arquivo server.js onde ficam as configurações iniciais
+
+
