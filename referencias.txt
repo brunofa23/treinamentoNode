@@ -6,6 +6,8 @@
 
     Enviar para o git
         -git add .
+        -git commit -m "Commit teste 3"
+        -git push
 
 
 2 - Criar arquivo server.js onde ficam as configurações iniciais
