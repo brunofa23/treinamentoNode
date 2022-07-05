@@ -16,3 +16,4 @@
 3 - biblioteca morgan
 
 4 - biblioteca body-parser
+5 - npm install mysql
